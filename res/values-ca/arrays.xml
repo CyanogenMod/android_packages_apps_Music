@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_duck_attenuation">
+        <item>Pausa</item>
+        <item>Sense</item>
+        <item>Volum -3 dB</item>
+        <item>Volum -6 dB</item>
+        <item>Volum -10 dB</item>
+        <item>Volum -15 dB</item>
+    </string-array>
+</resources>
+

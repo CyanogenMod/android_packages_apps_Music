@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="onesong">1 cançó</string>
+  <string name="goto_start">Biblioteca</string>
+  <string name="goto_playback">Reprodueix</string>
+  <string name="party_shuffle">Aleatori</string>
+  <string name="party_shuffle_off">No aleatori</string>
+  <string name="delete_item">Suprimeix</string>
+  <string name="shuffle_all">Tot aleatori</string>
+  <string name="play_all">Reprodueix-ho tot</string>
+  <string name="delete_artist_desc">S\'eliminaran de forma permanent totes les cançons de <xliff:g id="artist">%s</xliff:g> de la targeta SD.</string>
+  <string name="delete_album_desc">S\'eliminarà de forma permanent l\'àlbum <xliff:g id="album">%s</xliff:g> de la targeta SD.</string>
+  <string name="delete_song_desc">S\'eliminarà de forma permanent <xliff:g id="song">%s</xliff:g> de la targeta SD.</string>
+  <string name="delete_confirm_button_text">D\'acord</string>
+  <string name="scanning">S\'està cercant a la targeta SD…</string>
+  <string name="nowplaying_title">S\'està reproduint</string>
+  <string name="partyshuffle_title">Aleatori</string>
+  <string name="artists_title">Artistes</string>
+  <string name="albums_menu">Àlbums</string>
+  <string name="albums_title">Àlbums</string>
+  <string name="tracks_menu">Cançons</string>
+  <string name="tracks_title">Cançons</string>
+  <string name="playlists_menu">Llistes</string>
+  <string name="playlists_title">Llistes</string>
+  <string name="videos_title">Vídeos</string>
+  <string name="all_title">Tots els fitxers</string>
+  <string name="browse_menu">Intèrprets</string>
+  <string name="search_title">Cerca</string>
+  <string name="no_tracks_title">No hi ha cançons</string>
+  <string name="no_videos_title">No hi ha vídeos</string>
+  <string name="no_playlists_title">No hi ha llistes de reproducció</string>
+  <string name="delete_playlist_menu">Elimina</string>
+  <string name="edit_playlist_menu">Edita</string>
+  <string name="rename_playlist_menu">Canvia el nom</string>
+  <string name="playlist_deleted_message">S\'ha eliminat la llista.</string>
+  <string name="playlist_renamed_message">S\'ha canviat el nom de la llista.</string>
+  <string name="recentlyadded">Afegides recentment</string>
+  <string name="recentlyadded_title">Afegides recentment</string>
+  <string name="podcasts_listitem">Podcasts</string>
+  <string name="podcasts_title">Podcasts</string>
+  <string name="sdcard_missing_title">No hi ha targeta SD</string>
+  <string name="sdcard_missing_message">El telèfon no té cap targeta SD inserida.</string>
+  <string name="sdcard_busy_title">La targeta SD no està disponible</string>
+  <string name="sdcard_busy_message">La targeta SD està ocupada.</string>
+  <string name="sdcard_error_title">Error a la targeta SD</string>
+  <string name="sdcard_error_message">S\'ha trobat un error a la targeta SD.</string>
+  <string name="unknown_artist_name">Artista desconegut</string>
+  <string name="unknown_album_name">Àlbum desconegut</string>
+  <string name="shuffle_on_notif">Aleatori activat.</string>
+  <string name="shuffle_off_notif">Aleatori desactivat.</string>
+  <string name="repeat_off_notif">Repetició desactivada.</string>
+  <string name="repeat_current_notif">Repetint la cançó actual.</string>
+  <string name="repeat_all_notif">Repetint totes les cançons.</string>
+  <string name="ringtone_menu">Usa com a to de trucada</string>
+  <string name="ringtone_menu_short">Usa com a to</string>
+  <string name="ringtone_set">S\'ha establert \"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" com a to de trucada.</string>
+  <string name="play_selection">Reprodueix</string>
+  <string name="add_to_playlist">Afegeix a una llista</string>
+  <string name="queue">Llista de reproducció actual</string>
+  <string name="new_playlist">Nova</string>
+  <string name="new_playlist_name_template">Nova llista de reproducció <xliff:g id="number">%d</xliff:g></string>
+  <string name="emptyplaylist">La llista està buida.</string>
+  <string name="create_playlist_create_text">Desa</string>
+  <string name="create_playlist_overwrite_text">Sobreescriu</string>
+  <string name="service_start_error_title">Problema de reproducció</string>
+  <string name="service_start_error_msg">La cançó no es pot reproduir.</string>
+  <string name="service_start_error_button">D\'acord</string>
+  <string name="weekpicker_set">Fet</string>
+  <string name="weekpicker_title">Estableix setmanes</string>
+  <string name="save_as_playlist">Desa com a llista de reproducció</string>
+  <string name="clear_playlist">Neteja la llista de reproducció</string>
+  <string name="musicbrowserlabel">Música</string>
+  <string name="musicshortcutlabel">Llista de reproducció</string>
+  <string name="mediaplaybacklabel">Música</string>
+  <string name="videobrowserlabel">Vídeos</string>
+  <string name="mediapickerlabel">Música</string>
+  <string name="playback_failed">El reproductor no és compatible amb aquest tipus d\'arxius d\'àudio.</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="remove_from_playlist">Elimina de la llista</string>
+  <string name="streamloadingtext">Connectant amb <xliff:g id="host">%s</xliff:g></string>
+  <string name="mediasearch">Buscant <xliff:g id="term" example="Beethoven">%s</xliff:g> fent servir:</string>
+  <string name="working_artists">Intèrprets…</string>
+  <string name="working_albums">Àlbums…</string>
+  <string name="working_songs">Cançons…</string>
+  <string name="working_playlists">Llistes de reproducció…</string>
+  <string name="loading">S\'està carregant</string>
+  <string name="sort_by_track">Pistes</string>
+  <string name="sort_by_album">Àlbums</string>
+  <string name="sort_by_artist">Intèrprets</string>
+  <string name="music_picker_title">Selecciona pista de música</string>
+  <string name="gadget_track">Pista <xliff:g id="track_number">%d</xliff:g></string>
+  <string name="fail_to_start_stream">No s\'ha pogut reproduir l\'stream demanat.</string>
+  <string name="search_settings_description">Intèrprets, àlbums i pistes</string>
+  <string name="search_hint">Cerca de música</string>
+  <string name="settings">Paràmetres</string>
+  <string name="screen_on_while_plugged_in_title">Pantalla activa durant la càrrega</string>
+  <string name="screen_on_while_plugged_in_summary">Mantén la pantalla activa durant la reproducció i carregant</string>
+  <string name="unpause_on_headset_plug_title">Desactiva la pausa en connectar</string>
+  <string name="unpause_on_headset_plug_summary">Desactiva la pausa del reproductor en connectar els auriculars</string>
+  <string name="doubletap_trackball_next_title">Utilitzeu la bola de desplaçament per ometre</string>
+  <string name="doubletap_trackball_next_summary">En repòs, premeu dues vegades la bola de desplaçament per saltar la cançó</string>
+  <string name="fullscreen_title">Reproducció en pantalla completa</string>
+  <string name="fullscreen_summary">La pantalla s\'estendrà durant la reproducció fins a la mida màxima de la pantalla del dispositiu i la barra de notificació s\'ocultarà</string>
+  <string name="duck_attenuation_title">Acció en perdre l\'àudio</string>
+  <string name="duck_attenuation_summary">Seleccioneu l\'acció a fer durant la pèrdua momentània de la reproducció d\'àudio (alertes curtes d\'altres aplicacions)</string>
+  <string name="enable_gestures_title">Habilita el control per gestos</string>
+  <string name="enable_gestures_summary">Habiliteu el control de la música a través de gestos</string>
+  <string name="gestures_list_title">Gestos</string>
+  <string name="gestures_list_summary">diagrama i descripció de tots els gestos disponibles</string>
+  <string name="play_pause_title">Reproducció/Pausa</string>
+  <string name="play_pause_summary">dibuixeu per a alternar Reprodueix/Pausa</string>
+  <string name="next_title">Pista següent</string>
+  <string name="next_summary">Sacsegeu cap a la dreta per anar a la pista següent</string>
+  <string name="prev_restart_title">Pista anterior</string>
+  <string name="prev_restart_summary">Sacsegeu cap a l\'esquerra per anar a la pista anterior</string>
+  <string name="repeat_title">Activar/desactivar la repetició</string>
+  <string name="repeat_summary">dibuixeu per alternar entre els 3 modes de repetició</string>
+  <string name="shuffle_title">Activa/desactiva el mode aleatori</string>
+  <string name="shuffle_summary">dibuixeu per activar/desactivar el mode aleatori</string>
+  <string name="credits_cat">Crèdits</string>
+  <string name="credits">Quant a i Crèdits</string>
+  <string name="credits_mod_name">Music Mod</string>
+  <string name="credits_mod_name_summary">Eliot Stocker</string>
+  <string name="credits_mod_version">Versió</string>
+  <string name="credits_mod_version_summary">1.7.5.2</string>
+  <string name="credits_mod_credits">Crèdits</string>
+  <string name="credits_mod_credits_summary">Cyanogen, Dan Josiah, AOSP i la resta.</string>
+  <string name="invert_gestures_title">Invertir els gestos Anterior i Següent</string>
+  <string name="invert_gestures_summary_on">Actualment invertit - Anterior és dreta i Següent és esquerra</string>
+  <string name="invert_gestures_summary_off">Actualment normal - Anterior és esquerra i Següent és dreta</string>
+  <string name="gestures_title">Configuració dels gestos</string>
+  <string name="prev_restart_summary_inv">Sacsegeu cap a la dreta per anar a la pista anterior</string>
+  <string name="next_summary_inv">Sacsegeu cap a l\'esquerra per anar a la pista següent</string>
+  <string name="haptic_feedback_title">Retroacció tàctil per als gestos</string>
+  <string name="haptic_feedback_summary_on">El telèfon vibrarà quan completeu un gest</string>
+  <string name="haptic_feedback_summary_off">El telèfon no vibrarà quan completeu un gest</string>
+  <string name="next_toast">Pista següent</string>
+  <string name="prev_toast">Pista anterior</string>
+  <string name="fast_scroll_music_alphabet">\u00200123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+  <string name="slash"> / </string>
+  <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+  <string name="widget_initial_text">Toca per seleccionar la música.</string>
+  <plurals name="Nsongs">
+       <item quantity="other"><xliff:g id="count">%d</xliff:g> cançons</item>
+  </plurals>
+  <plurals name="Nsongscomp">
+      <item quantity="other"><xliff:g id="count_for_artist">%2$d</xliff:g> de <xliff:g id="total_count">%1$d</xliff:g> cançons</item>
+  </plurals>
+  <plurals name="Nalbums">
+      <item quantity="one">1 àlbum</item>
+      <item quantity="other"><xliff:g id="count">%d</xliff:g> àlbums</item>
+  </plurals>
+  <plurals name="NNNtracksdeleted">
+      <item quantity="one">S\'ha esborrat 1 cançó.</item>
+      <item quantity="other">S\'han esborrat <xliff:g id="songs_to_delete">%d</xliff:g> cançons.</item>
+  </plurals>
+  <plurals name="NNNtrackstoplaylist">
+      <item quantity="one">S\'ha afegit 1 cançó a la llista.</item>
+      <item quantity="other">S\'han afegit <xliff:g id="number" example="27">%d</xliff:g> cançons a la llista.</item>
+  </plurals>
+</resources>
