@@ -22,20 +22,20 @@
     <string name="onesong">1 首歌曲</string>
     <!-- used in various places to indicate there is some number other than one songs for a given artist or album. -->
     <plurals name="Nsongs">
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> songs</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> 首歌曲</item>
     </plurals>
 
     <!-- shows how many songs on the album are by the selected artist, out of how many total, if those two numbers are different -->
     <plurals name="Nsongscomp">
-        <item quantity="other"><xliff:g id="count_for_artist">%2$d</xliff:g> of <xliff:g id="total_count">%1$d</xliff:g> songs</item>
+        <item quantity="other">专辑的 <xliff:g id="total_count">%1$d</xliff:g> 首歌曲中, 有<xliff:g id="count_for_artist">%2$d</xliff:g> 首该艺术家的歌曲</item>
     </plurals>
 
     <!-- Used in artists list view, indicates how many albums exist for a given artist. -->
     <plurals name="Nalbums">
         <!-- number of albums is one -->
-        <item quantity="one">1 album</item>
+        <item quantity="one">1 张专辑</item>
         <!-- number of albums is not equal to one -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> albums</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> 专辑</item>
     </plurals>
 
     <!--
@@ -89,9 +89,9 @@
     <!-- Toast confirming that song(s) was/were deleted. -->
     <plurals name="NNNtracksdeleted">
         <!-- delete confirmation message for 1 song -->
-        <item quantity="one">1 song was deleted.</item>
+        <item quantity="one">1 首歌曲已删除.</item>
         <!-- delete confirmation message for 0 or more than 1 songs -->
-        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> songs were deleted.</item>
+        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> 首歌曲已删除.</item>
     </plurals>
 
     <!-- shown in dialog while the media scanner is starting up -->
@@ -210,7 +210,7 @@
         <!-- message shown when one song was added -->
         <item quantity="one">1 song added to playlist.</item>
         <!-- message shown when zero or more than one song was added -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> songs added to playlist.</item>
+        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> 首歌曲已添加到播放列表.</item>
     </plurals>
     <!-- Toast after selecting an empty playlist -->
     <string name="emptyplaylist">您选的播放列表是空的。</string>
@@ -227,18 +227,18 @@
     <!-- Time span edit options that appear when editing system playlist "Recently added" -->
     <!-- Used to indicate the number of weeks the "recently added" playlist covers in a selector widget -->
     <string-array name="weeklist">
-        <item>"1 week"</item>
-        <item>"2 weeks"</item>
-        <item>"3 weeks"</item>
-        <item>"4 weeks"</item>
-        <item>"5 weeks"</item>
-        <item>"6 weeks"</item>
-        <item>"7 weeks"</item>
-        <item>"8 weeks"</item>
-        <item>"9 weeks"</item>
-        <item>"10 weeks"</item>
-        <item>"11 weeks"</item>
-        <item>"12 weeks"</item>
+        <item>"1 周"</item>
+        <item>"2 周"</item>
+        <item>"3 周"</item>
+        <item>"4 周"</item>
+        <item>"5 周"</item>
+        <item>"6 周"</item>
+        <item>"7 周"</item>
+        <item>"8 周"</item>
+        <item>"9 周"</item>
+        <item>"10 周"</item>
+        <item>"11 周"</item>
+        <item>"12 周"</item>
     </string-array>
     <!-- Button name in time span picker -->
     <string name="weekpicker_set">完成</string>
@@ -335,9 +335,9 @@
     <string name="duck_attenuation_db_title">回避衰减</string>
     <string name="duck_attenuation_db_summary">选择失去焦点时衰减量</string>
     <string-array name="duck_attenuation_db_entries">
-        <item>None</item>
+        <item>无</item>
         <item>4 dB</item>
-        <item>8 dB (default)</item>
+        <item>8 dB (默认)</item>
         <item>12 dB</item>
     </string-array>
     <!-- Do not translate. Entry values for 'enable gestures' preference list -->
@@ -364,18 +364,18 @@
 
     <!-- Titles and summaries for gestures when listed in 'edit gestures' activity -->
     <string-array name="gesture_titles">
-        <item>Pause/Resume</item>
-        <item>Next</item>
-        <item>Previous</item>
-        <item>Shuffle</item>
-        <item>Repeat</item>
+        <item>暂停/播放</item>
+        <item>下一首</item>
+        <item>上一首</item>
+        <item>随机播放</item>
+        <item>重复播放</item>
     </string-array>
     <string-array name="gesture_summaries">
-        <item>Pause current song or resume playback</item>
-        <item>Skip to next song on playlist</item>
-        <item>Restart current song or skip to previous song on playlist</item>
-        <item>Toggle shuffle on and off</item>
-        <item>Cycle through repeat modes</item>
+        <item>暂停当前曲目或继续播放</item>
+        <item>跳到播放列表的下一首歌曲</item>
+        <item>重复播放当前歌曲或跳到播放列表的上一首歌曲</item>
+        <item>开启或关闭随机播放</item>
+        <item>切换到重复播放模式</item>
     </string-array>
 
     <!-- Loading text for 'edit gestures' activity -->
