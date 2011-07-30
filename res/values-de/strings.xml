@@ -169,7 +169,7 @@
     <item>12 dB</item>
   </string-array>
 
-  <string name="gestures_category_title">Gestwn</string>
+  <string name="gestures_category_title">Gesten</string>
 
   <string name="enable_gestures_title">Gesten einschalten</string>
   <string name="enable_gestures_summary">Musiksteuerung auf \"Aktuelle Wiedergabe\" über Gesten kontrollieren</string>
